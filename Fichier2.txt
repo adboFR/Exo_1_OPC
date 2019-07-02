@@ -1,3 +1,5 @@
 Description du fichier 2 : 
 
 Ceci est un fichier texte. 
+
+Dans ce fichier sera renseigné les objectifs du projet.

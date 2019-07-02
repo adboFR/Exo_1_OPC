@@ -1,3 +1,5 @@
 Description du fichier 1 : 
 
 Ceci est un fichier texte. 
+
+Dans ce fichier sera renseigner le contexte du projet. 
